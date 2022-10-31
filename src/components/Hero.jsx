@@ -6,7 +6,7 @@ import SecondImg from "../images/chestnut-skin-color.jpg";
 function Hero() {
   return (
     <div className="w-full bg-black pt-8 text-white">
-      <div className="mt-8 mb-4">
+      <div className="mt-8 mb-14">
         <h1 className="hero--header text-center text-2xl sm:text-5xl">Learning React</h1>
       </div>
 
