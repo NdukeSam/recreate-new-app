@@ -3,7 +3,7 @@ import React from 'react'
 function Pricing(props) {
   return (
     <div>
-      <div className="shadow-lg rounded-2xl w-70 bg-indigo-500 dark:bg-gray-800 p-4">
+      <div className="shadow-lg rounded-2xl w-70 bg-indigo-500 dark:bg-gray-800 p-4 mb-6">
     <div className="flex text-white  items-center justify-between">
         <p className="text-4xl font-medium mb-4">
             {props.membership}

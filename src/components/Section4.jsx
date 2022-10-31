@@ -3,7 +3,7 @@ import Pricing from './Pricing';
 
 function Section4() {
   return (
-    <div className="flex items-center justify-evenly flex-col md:flex-row">
+    <div className="flex bg-blue-400 p-4 py-40 items-center justify-around flex-col md:flex-row">
         <Pricing
         membership="Starter"
         amount="Free"
